@@ -1,0 +1,2 @@
+# Manual timer
+time read
